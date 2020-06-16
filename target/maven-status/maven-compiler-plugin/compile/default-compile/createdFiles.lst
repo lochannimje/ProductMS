@@ -1,0 +1,13 @@
+team12\product\ProductApplication.class
+team12\product\dto\ProductDTO.class
+team12\product\model\ProductId.class
+team12\product\controller\ProductController.class
+team12\product\model\Message.class
+team12\product\repository\SubscriptionRepository.class
+team12\product\entity\Subscription.class
+team12\product\service\ProductService.class
+team12\product\dto\SubscriptionDTO.class
+team12\product\repository\ProductRepository.class
+team12\product\service\SubscriptionService.class
+team12\product\controller\SubscriptionController.class
+team12\product\entity\Product.class

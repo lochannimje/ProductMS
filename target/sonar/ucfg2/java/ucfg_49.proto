@@ -1,0 +1,24 @@
+
+\team12.product.service.ProductService#getProductsByBrand(Ljava/lang/String;)Ljava/util/List;Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java (("1*ö
+1Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java 	  (Ù
+Ö
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java 	  (1
+%0+team12.product.repository.ProductRepository"__id*@*>'
+%team12.product.service.ProductService"
+productRepositoryÄÁ
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java 	  (-
+%1java.util.List"[team12.product.repository.ProductRepository#findByBrand(Ljava/lang/String;)Ljava/util/List;*3
+1
+%0+team12.product.repository.ProductRepository*
+
+brandjava.lang.String2findByBrand(Ljava/lang/String;)"s
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java   (.
+
+%1java.util.List:
+brandjava.lang.StringB)'
+%team12.product.service.ProductService

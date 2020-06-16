@@ -1,0 +1,68 @@
+
+iteam12.product.controller.ProductController#addProduct(Lteam12/product/dto/ProductDTO;)Ljava/lang/Object;_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java$ $("startingBlock*à
+startingBlock_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java$ $(=Û
+Ø
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java# #(
+%5"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping**
+(
+productteam12.product.dto.ProductDTOÛ
+Ø
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java$ $()
+%6"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody**
+(
+productteam12.product.dto.ProductDTO¬
+©
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java$5 $(<(
+productteam12.product.dto.ProductDTO"__annotation*
+
+%5*
+
+%6*
+1*ç
+1_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java% %(Š
+‡
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java% %(
+%0org.slf4j.Logger"__id*
+""ëè
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java% %(,
+
+%1void"*org.slf4j.Logger#info(Ljava/lang/String;)V*
+
+%0org.slf4j.Logger*
+Adding Single Product2info(Ljava/lang/String;)Ü
+Ù
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java& &(+
+%2%team12.product.service.ProductService"__id*C*A-
++team12.product.controller.ProductController"
+productService˜•
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java&* &(C#
+%3team12.product.entity.Product"Nteam12.product.dto.ProductDTO#convertToEntity()Lteam12/product/entity/Product;**
+(
+productteam12.product.dto.ProductDTO2convertToEntity()€ý
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java& &(D#
+%4team12.product.entity.Product"qteam12.product.service.ProductService#saveProduct(Lteam12/product/entity/Product;)Lteam12/product/entity/Product;*-
++
+%2%team12.product.service.ProductService*%
+#
+%3team12.product.entity.Product2,saveProduct(Lteam12/product/entity/Product;)"ˆ
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java& &(E%
+#
+%4team12.product.entity.Product:(
+productteam12.product.dto.ProductDTOB/-
++team12.product.controller.ProductController

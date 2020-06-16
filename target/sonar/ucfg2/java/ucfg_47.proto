@@ -1,0 +1,21 @@
+
+Gteam12.product.service.ProductService#getProducts()Ljava/lang/Iterable;Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java (%"1*À
+1Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java	 (Ù
+Ö
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java	 (1
+%0+team12.product.repository.ProductRepository"__id*@*>'
+%team12.product.service.ProductService"
+productRepositoryŠ‡
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java	 ($
+%1java.lang.Iterable"Porg.springframework.data.repository.CrudRepository#findAll()Ljava/lang/Iterable;*3
+1
+%0+team12.product.repository.ProductRepository2	findAll()"w
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java (%
+
+%1java.lang.IterableB)'
+%team12.product.service.ProductService

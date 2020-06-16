@@ -1,0 +1,96 @@
+
+`team12.product.controller.ProductController#removeProduct(Ljava/lang/Integer;)Ljava/lang/Object;_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaO O("startingBlock*’
+startingBlock_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaO O(]ø
+º
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaOB O(J
+%11"
+__annotate*$"
+ org.springframework.lang.NonNull* 
+
+	productIdjava.lang.Integerõ
+ò
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaOS O(\
+	productIdjava.lang.Integer"__annotation*
+
+%11*
+8*Ô
+4_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaV V("à
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaV V(%
+#
+msgteam12.product.model.Message*≥
+5_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaT T((µ
+≤
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaT T((#
+msgteam12.product.model.Message"__id*$
+"
+%5team12.product.model.Messageèå
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaU U(2
+
+%7void"<team12.product.model.Message#setMessage(Ljava/lang/String;)V*%
+#
+msgteam12.product.model.Message*
+Successfully Deleted2setMessage(Ljava/lang/String;)*
+4*Õ
+6_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaT T('¶£
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaT T(%"
+%5team12.product.model.Message"team12.product.model.Message∏
+µ
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaT T('
+%6"&team12.product.model.Message#<init>()V*$
+"
+%5team12.product.model.Message*
+5*π
+7_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaS S(ä
+á
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaS S(
+%2org.slf4j.Logger"__id*
+""”
+–
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaS S(K
+%3java.lang.String"__concat*)'
+%Removing Products based on productId * 
+
+	productIdjava.lang.IntegerÍÁ
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaS S(L
+
+%4void"*org.slf4j.Logger#info(Ljava/lang/String;)V*
+
+%2org.slf4j.Logger*
+
+%3java.lang.String2info(Ljava/lang/String;)*
+6*˚
+8_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaQ Q(‹
+Ÿ
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaQ Q(+
+%0%team12.product.service.ProductService"__id*C*A-
++team12.product.controller.ProductController"
+productService∞≠
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaQ Q(3
+
+%1void"Iteam12.product.service.ProductService#deleteProduct(Ljava/lang/Integer;)V*-
++
+%0%team12.product.service.ProductService* 
+
+	productIdjava.lang.Integer2"deleteProduct(Ljava/lang/Integer;)*
+7:
+	productIdjava.lang.IntegerB/-
++team12.product.controller.ProductController

@@ -1,9 +1,8 @@
 FROM openjdk:8-jdk-alpine 
 VOLUME /tmp 
-COPY /target/OrderMS-0.0.1-SNAPSHOT.jar 
-/usr/app/ 
+COPY /target/ProductMS-0.0.1-SNAPSHOT.jar /usr/app/ 
 WORKDIR /usr/app 
-EXPOSE 8200
+EXPOSE 8300
 ENV JAVA OPTS=""
-RUN sh -c "touch OrderMS-0.0.1-SNAPSHOT.jar"
-ENTRYPOINT [ "java", -jar", "OrderMS-0.0.1-SNAPSHOT.jar" ]
+RUN sh -c "touch ProductMS-0.0.1-SNAPSHOT.jar"
+ENTRYPOINT [ "java", -jar", "ProductMS-0.0.1-SNAPSHOT.jar" ]

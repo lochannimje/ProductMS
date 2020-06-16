@@ -1,0 +1,74 @@
+
+Xteam12.product.dto.SubscriptionDTO#convertToEntity()Lteam12/product/entity/Subscription;V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java, ,('"1*⁄
+1V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java-$ -(6©¶
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java-( -(4(
+%0"team12.product.entity.Subscription""team12.product.entity.Subscriptionª
+∏
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java-$ -(6
+%1",team12.product.entity.Subscription#<init>()V**
+(
+%0"team12.product.entity.Subscription¡
+æ
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java- -(72
+subscription"team12.product.entity.Subscription"__id**
+(
+%0"team12.product.entity.SubscriptionÍÁ
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java. .(-
+%2java.lang.Integer"@team12.product.dto.SubscriptionDTO#getSubId()Ljava/lang/Integer;*&$
+"team12.product.dto.SubscriptionDTO2
+getSubId()öó
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java. .(.
+
+%3void"Ateam12.product.entity.Subscription#setSubId(Ljava/lang/Integer;)V*4
+2
+subscription"team12.product.entity.Subscription*
+
+%2java.lang.Integer2setSubId(Ljava/lang/Integer;)ÓÎ
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java/  /(1
+%4java.lang.Integer"Bteam12.product.dto.SubscriptionDTO#getBuyerid()Ljava/lang/Integer;*&$
+"team12.product.dto.SubscriptionDTO2getBuyerid()ûõ
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java/ /(2
+
+%5void"Cteam12.product.entity.Subscription#setBuyerid(Ljava/lang/Integer;)V*4
+2
+subscription"team12.product.entity.Subscription*
+
+%4java.lang.Integer2setBuyerid(Ljava/lang/Integer;)ÏÈ
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java0 0(/
+%6java.lang.Integer"Ateam12.product.dto.SubscriptionDTO#getProdid()Ljava/lang/Integer;*&$
+"team12.product.dto.SubscriptionDTO2getProdid()úô
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java0 0(0
+
+%7void"Bteam12.product.entity.Subscription#setProdid(Ljava/lang/Integer;)V*4
+2
+subscription"team12.product.entity.Subscription*
+
+%6java.lang.Integer2setProdid(Ljava/lang/Integer;)Ì
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java1! 1(3
+%8java.lang.Integer"Cteam12.product.dto.SubscriptionDTO#getQuantity()Ljava/lang/Integer;*&$
+"team12.product.dto.SubscriptionDTO2getQuantity()†ù
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java1 1(4
+
+%9void"Dteam12.product.entity.Subscription#setQuantity(Ljava/lang/Integer;)V*4
+2
+subscription"team12.product.entity.Subscription*
+
+%8java.lang.Integer2 setQuantity(Ljava/lang/Integer;)"é
+V
+LC:/Users/abc/ProductMS/src/main/java/team12/product/dto/SubscriptionDTO.java3 3(4
+2
+subscription"team12.product.entity.SubscriptionB&$
+"team12.product.dto.SubscriptionDTO

@@ -1,0 +1,33 @@
+
+–team12.product.ProductApplication#restTemplate(Lorg/springframework/boot/web/client/RestTemplateBuilder;)Lorg/springframework/web/client/RestTemplate;U
+KC:/Users/abc/ProductMS/src/main/java/team12/product/ProductApplication.java ($"startingBlock*ˆ
+startingBlockU
+KC:/Users/abc/ProductMS/src/main/java/team12/product/ProductApplication.java$ (Aã
+à
+U
+KC:/Users/abc/ProductMS/src/main/java/team12/product/ProductApplication.java (	
+%1"
+__annotate*/-
++org.springframework.context.annotation.Bean*D
+B
+builder7org.springframework.boot.web.client.RestTemplateBuilder´
+±
+U
+KC:/Users/abc/ProductMS/src/main/java/team12/product/ProductApplication.java9 (@B
+builder7org.springframework.boot.web.client.RestTemplateBuilder"__annotation*
+
+%1*
+1*¶
+1U
+KC:/Users/abc/ProductMS/src/main/java/team12/product/ProductApplication.java (ÊÇ
+U
+KC:/Users/abc/ProductMS/src/main/java/team12/product/ProductApplication.java (1
+%0+org.springframework.web.client.RestTemplate"lorg.springframework.boot.web.client.RestTemplateBuilder#build()Lorg/springframework/web/client/RestTemplate;*D
+B
+builder7org.springframework.boot.web.client.RestTemplateBuilder2build()"Œ
+U
+KC:/Users/abc/ProductMS/src/main/java/team12/product/ProductApplication.java (3
+1
+%0+org.springframework.web.client.RestTemplate:B
+builder7org.springframework.boot.web.client.RestTemplateBuilderB%#
+!team12.product.ProductApplication

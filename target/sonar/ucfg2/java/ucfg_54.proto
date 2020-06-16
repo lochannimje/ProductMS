@@ -1,0 +1,69 @@
+
+xteam12.product.service.ProductService#updateStock(Ljava/lang/Integer;Ljava/lang/Integer;)Lteam12/product/entity/Product;Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java? ?("3*√
+2Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.javaB B(ôñ
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.javaB B("
+
+%3void"<team12.product.entity.Product#setStock(Ljava/lang/Integer;)V*2
+0
+existingProductteam12.product.entity.Product*
+
+stockjava.lang.Integer2setStock(Ljava/lang/Integer;)Ÿ
+÷
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.javaC
+ C(1
+%4+team12.product.repository.ProductRepository"__id*@*>'
+%team12.product.service.ProductService"
+productRepositoryÂ‚
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.javaC
+ C(1#
+%5team12.product.entity.Product"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*3
+1
+%4+team12.product.repository.ProductRepository*2
+0
+existingProductteam12.product.entity.Product2save(Ljava/lang/Object;)"Ç
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.javaC C(2%
+#
+%5team12.product.entity.Product*€
+3Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java@ @(-Ÿ
+÷
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java@ @(-1
+%0+team12.product.repository.ProductRepository"__id*@*>'
+%team12.product.service.ProductService"
+productRepositoryœÃ
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java@ @(>
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*3
+1
+%0+team12.product.repository.ProductRepository*
+
+prodIdjava.lang.Integer2findById(Ljava/lang/Object;)ÑÅ
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java@ @(K#
+%2team12.product.entity.Product"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%1java.util.Optional*
+""2orElse(Ljava/lang/Object;)Ω
+∫
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java@ @(L0
+existingProductteam12.product.entity.Product"__id*%
+#
+%2team12.product.entity.Product*
+2
+1*√
+1Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.javaE	 E("c
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.javaE E(
+"":
+prodIdjava.lang.Integer:
+stockjava.lang.IntegerB)'
+%team12.product.service.ProductService

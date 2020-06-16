@@ -1,0 +1,74 @@
+
+Kteam12.product.controller.ProductController#getProducts()Ljava/lang/Object;_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java* *("3*ò
+2_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java0 0('¶£
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java0 0(%"
+%5team12.product.model.Message"team12.product.model.Message∏
+µ
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java0 0('
+%6"&team12.product.model.Message#<init>()V*$
+"
+%5team12.product.model.Messageµ
+≤
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java0 0((#
+msgteam12.product.model.Message"__id*$
+"
+%5team12.product.model.Messageêç
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java1 1(3
+
+%7void"<team12.product.model.Message#setMessage(Ljava/lang/String;)V*%
+#
+msgteam12.product.model.Message*
+No products available2setMessage(Ljava/lang/String;)*
+1*•
+
+3_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java+ +(ä
+á
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java+ +(
+%0org.slf4j.Logger"__id*
+""ÌÍ
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java+ +(.
+
+%1void"*org.slf4j.Logger#info(Ljava/lang/String;)V*
+
+%0org.slf4j.Logger*
+Retriveing all Products2info(Ljava/lang/String;)‹
+Ÿ
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java-1 -(?+
+%2%team12.product.service.ProductService"__id*C*A-
++team12.product.controller.ProductController"
+productServiceÖÇ
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java-1 -(M
+%3java.lang.Iterable"Gteam12.product.service.ProductService#getProducts()Ljava/lang/Iterable;*-
++
+%2%team12.product.service.ProductService2getProducts()¢
+ü
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java- -(N
+productsjava.util.List"__id*
+
+%3java.lang.Iterable≠™
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java/ /(	
+%4int"java.util.List#size()I*
+
+productsjava.util.List2size()*
+2
+1*Â
+1_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java4 4("
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.java4 4(
+
+productsjava.util.ListB/-
++team12.product.controller.ProductController

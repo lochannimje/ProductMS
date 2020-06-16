@@ -1,0 +1,24 @@
+
+dteam12.product.service.SubscriptionService#getSubscriptions(Ljava/lang/Integer;)Ljava/lang/Iterable;^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java (/"1*¸
+1^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java	 (í
+ê
+^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java	 (6
+%00team12.product.repository.SubscriptionRepository"__id*J*H,
+*team12.product.service.SubscriptionService"
+subscriptionRepositoryäá
+^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java	 (6
+%1java.lang.Iterable"gteam12.product.repository.SubscriptionRepository#findByBuyerid(Ljava/lang/Integer;)Ljava/lang/Iterable;*8
+6
+%00team12.product.repository.SubscriptionRepository*
+
+buyeridjava.lang.Integer2"findByBuyerid(Ljava/lang/Integer;)"|
+^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java (7
+
+%1java.lang.Iterable:
+buyeridjava.lang.IntegerB.,
+*team12.product.service.SubscriptionService

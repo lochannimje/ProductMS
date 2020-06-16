@@ -1,0 +1,24 @@
+
+qteam12.product.service.ProductService#saveProduct(Lteam12/product/entity/Product;)Lteam12/product/entity/Product;Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java ("1*Ÿ
+1Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java	 (Ù
+Ö
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java	 (1
+%0+team12.product.repository.ProductRepository"__id*@*>'
+%team12.product.service.ProductService"
+productRepositoryÝÚ
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java	 ((#
+%1team12.product.entity.Product"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*3
+1
+%0+team12.product.repository.ProductRepository**
+(
+productteam12.product.entity.Product2save(Ljava/lang/Object;)"‚
+Y
+OC:/Users/abc/ProductMS/src/main/java/team12/product/service/ProductService.java ()%
+#
+%1team12.product.entity.Product:(
+productteam12.product.entity.ProductB)'
+%team12.product.service.ProductService

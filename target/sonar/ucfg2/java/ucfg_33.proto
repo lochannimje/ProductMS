@@ -1,0 +1,154 @@
+
+Kteam12.product.entity.Product#convertToDTO()Lteam12/product/dto/ProductDTO;S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaÉ É("1*Â0
+1S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaÑ Ñ(-úô
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaÑ! Ñ(+#
+%0team12.product.dto.ProductDTO"team12.product.dto.ProductDTOÆ
+´
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaÑ Ñ(-
+%1"'team12.product.dto.ProductDTO#<init>()V*%
+#
+%0team12.product.dto.ProductDTOØ
+¨
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaÑ Ñ(.(
+productteam12.product.dto.ProductDTO"__id*%
+#
+%0team12.product.dto.ProductDTOﬂ‹
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaÜ Ü(*
+%2java.lang.Integer"<team12.product.entity.Product#getProdId()Ljava/lang/Integer;*!
+team12.product.entity.Product2getProdId()äá
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaÜ Ü(+
+
+%3void"=team12.product.dto.ProductDTO#setProdId(Ljava/lang/Integer;)V**
+(
+productteam12.product.dto.ProductDTO*
+
+%2java.lang.Integer2setProdId(Ljava/lang/Integer;)€ÿ
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaá á((
+%4java.lang.String":team12.product.entity.Product#getBrand()Ljava/lang/String;*!
+team12.product.entity.Product2
+getBrand()ÖÇ
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaá á()
+
+%5void";team12.product.dto.ProductDTO#setBrand(Ljava/lang/String;)V**
+(
+productteam12.product.dto.ProductDTO*
+
+%4java.lang.String2setBrand(Ljava/lang/String;)·ﬁ
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaà à(.
+%6java.lang.String"=team12.product.entity.Product#getCategory()Ljava/lang/String;*!
+team12.product.entity.Product2getCategory()ãà
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaà à(/
+
+%7void">team12.product.dto.ProductDTO#setCategory(Ljava/lang/String;)V**
+(
+productteam12.product.dto.ProductDTO*
+
+%6java.lang.String2setCategory(Ljava/lang/String;)Á‰
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaâ â(4
+%8java.lang.String"@team12.product.entity.Product#getDescription()Ljava/lang/String;*!
+team12.product.entity.Product2getDescription()ëé
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaâ â(5
+
+%9void"Ateam12.product.dto.ProductDTO#setDescription(Ljava/lang/String;)V**
+(
+productteam12.product.dto.ProductDTO*
+
+%8java.lang.String2"setDescription(Ljava/lang/String;)‹Ÿ
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaä ä((
+%10java.lang.String":team12.product.entity.Product#getImage()Ljava/lang/String;*!
+team12.product.entity.Product2
+getImage()áÑ
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaä ä()
+%11void";team12.product.dto.ProductDTO#setImage(Ljava/lang/String;)V**
+(
+productteam12.product.dto.ProductDTO*
+
+%10java.lang.String2setImage(Ljava/lang/String;)‰·
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaã ã((
+%12java.math.BigDecimal">team12.product.entity.Product#getPrice()Ljava/math/BigDecimal;*!
+team12.product.entity.Product2
+getPrice()ìê
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaã ã()
+%13void"?team12.product.dto.ProductDTO#setPrice(Ljava/math/BigDecimal;)V**
+(
+productteam12.product.dto.ProductDTO*
+
+%12java.math.BigDecimal2 setPrice(Ljava/math/BigDecimal;)ËÂ
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaå å(4
+%14java.lang.String"@team12.product.entity.Product#getProductname()Ljava/lang/String;*!
+team12.product.entity.Product2getProductname()ìê
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaå å(5
+%15void"Ateam12.product.dto.ProductDTO#setProductname(Ljava/lang/String;)V**
+(
+productteam12.product.dto.ProductDTO*
+
+%14java.lang.String2"setProductname(Ljava/lang/String;)‡›
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaç ç(*
+%16java.lang.Integer"<team12.product.entity.Product#getRating()Ljava/lang/Integer;*!
+team12.product.entity.Product2getRating()åâ
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaç ç(+
+%17void"=team12.product.dto.ProductDTO#setRating(Ljava/lang/Integer;)V**
+(
+productteam12.product.dto.ProductDTO*
+
+%16java.lang.Integer2setRating(Ljava/lang/Integer;)‰·
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaé é(.
+%18java.lang.Integer">team12.product.entity.Product#getSellerid()Ljava/lang/Integer;*!
+team12.product.entity.Product2getSellerid()êç
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaé é(/
+%19void"?team12.product.dto.ProductDTO#setSellerId(Ljava/lang/Integer;)V**
+(
+productteam12.product.dto.ProductDTO*
+
+%18java.lang.Integer2 setSellerId(Ljava/lang/Integer;)ﬁ€
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaè è((
+%20java.lang.Integer";team12.product.entity.Product#getStock()Ljava/lang/Integer;*!
+team12.product.entity.Product2
+getStock()äá
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaè è()
+%21void"<team12.product.dto.ProductDTO#setStock(Ljava/lang/Integer;)V**
+(
+productteam12.product.dto.ProductDTO*
+
+%20java.lang.Integer2setStock(Ljava/lang/Integer;)ËÂ
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaê ê(4
+%22java.lang.String"@team12.product.entity.Product#getSubcategory()Ljava/lang/String;*!
+team12.product.entity.Product2getSubcategory()ìê
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaê ê(5
+%23void"Ateam12.product.dto.ProductDTO#setSubCategory(Ljava/lang/String;)V**
+(
+productteam12.product.dto.ProductDTO*
+
+%22java.lang.String2"setSubCategory(Ljava/lang/String;)"Å
+S
+GC:/Users/abc/ProductMS/src/main/java/team12/product/entity/Product.javaí í(*
+(
+productteam12.product.dto.ProductDTOB!
+team12.product.entity.Product

@@ -1,0 +1,30 @@
+
+wteam12.product.service.SubscriptionService#getSubscriptionById(Ljava/lang/Integer;)Lteam12/product/entity/Subscription;^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java (("1*Î
+1^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java	 (í
+ê
+^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java	 (6
+%00team12.product.repository.SubscriptionRepository"__id*J*H,
+*team12.product.service.SubscriptionService"
+subscriptionRepositoryØÕ
+^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java	 (/
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*8
+6
+%00team12.product.repository.SubscriptionRepository*
+
+subidjava.lang.Integer2findById(Ljava/lang/Object;)Ž‹
+^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java	 (<(
+%2"team12.product.entity.Subscription"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*
+
+%1java.util.Optional*
+""2orElse(Ljava/lang/Object;)"Œ
+^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java (=*
+(
+%2"team12.product.entity.Subscription:
+subidjava.lang.IntegerB.,
+*team12.product.service.SubscriptionService

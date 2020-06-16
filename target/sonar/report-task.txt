@@ -1,0 +1,7 @@
+organization=lochannimje
+projectKey=team12:ProductMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8683
+dashboardUrl=https://sonarcloud.io/dashboard?id=team12%3AProductMS
+ceTaskId=AXK-WBvWvDHpib7F5_Hj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXK-WBvWvDHpib7F5_Hj

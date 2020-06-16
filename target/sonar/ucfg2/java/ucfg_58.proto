@@ -1,0 +1,24 @@
+
+…team12.product.service.SubscriptionService#saveSubscription(Lteam12/product/entity/Subscription;)Lteam12/product/entity/Subscription;^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java (%"1*Û
+1^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java	 (í
+ê
+^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java	 (6
+%00team12.product.repository.SubscriptionRepository"__id*J*H,
+*team12.product.service.SubscriptionService"
+subscriptionRepositoryöó
+^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java	 (2(
+%1"team12.product.entity.Subscription"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*8
+6
+%00team12.product.repository.SubscriptionRepository*4
+2
+subscription"team12.product.entity.Subscription2save(Ljava/lang/Object;)"Œ
+^
+TC:/Users/abc/ProductMS/src/main/java/team12/product/service/SubscriptionService.java (3*
+(
+%1"team12.product.entity.Subscription:2
+subscription"team12.product.entity.SubscriptionB.,
+*team12.product.service.SubscriptionService

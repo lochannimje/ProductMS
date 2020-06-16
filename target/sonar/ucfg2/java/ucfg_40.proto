@@ -1,0 +1,143 @@
+
+jteam12.product.controller.ProductController#updateStock(Lteam12/product/dto/ProductDTO;)Ljava/lang/Object;_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javan n("startingBlock*¨
+2_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javas s('¦£
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javas s(%"
+%6team12.product.model.Message"team12.product.model.Message¸
+µ
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javas s('
+%7"&team12.product.model.Message#<init>()V*$
+"
+%6team12.product.model.Messageµ
+²
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javas s((#
+msgteam12.product.model.Message"__id*$
+"
+%6team12.product.model.Messageš—
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javat t(=
+
+%8void"<team12.product.model.Message#setMessage(Ljava/lang/String;)V*%
+#
+msgteam12.product.model.Message*#!
+The Stock should be at least 102setMessage(Ljava/lang/String;)"ˆ
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javau u(%
+#
+msgteam12.product.model.Message*ã
+startingBlock_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javan n(>Û
+Ø
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javam m( 
+%13"
+__annotate*64
+2org.springframework.web.bind.annotation.PutMapping**
+(
+productteam12.product.dto.ProductDTOÜ
+Ù
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javan n(*
+%14"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody**
+(
+productteam12.product.dto.ProductDTO®
+«
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javan6 n(=(
+productteam12.product.dto.ProductDTO"__annotation*
+
+%13*
+
+%14*
+4*á
+3_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javar* r(1òï
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javar* r(<
+%5java.lang.Integer";team12.product.dto.ProductDTO#getStock()Ljava/lang/Integer;**
+(
+productteam12.product.dto.ProductDTO2
+getStock()*
+2
+1*ò
+4_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javao  o('˜•
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javao  o(9#
+%0team12.product.entity.Product"Nteam12.product.dto.ProductDTO#convertToEntity()Lteam12/product/entity/Product;**
+(
+productteam12.product.dto.ProductDTO2convertToEntity()Á
+¾
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javao o(:.
+productEntityteam12.product.entity.Product"__id*%
+#
+%0team12.product.entity.ProductŠ
+‡
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javap p(
+%1org.slf4j.Logger"__id*
+""ôñ
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javap. p(A
+%2java.lang.Integer"<team12.product.dto.ProductDTO#getProdId()Ljava/lang/Integer;**
+(
+productteam12.product.dto.ProductDTO2getProdId()«¨
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javap p(B
+
+%3void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%1org.slf4j.Logger*
+Updating Product Stock*
+
+%2java.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)òï
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javar r(
+%4java.lang.Integer";team12.product.dto.ProductDTO#getStock()Ljava/lang/Integer;**
+(
+productteam12.product.dto.ProductDTO2
+getStock()*
+3
+1*æ
+
+1_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javax x(Ü
+Ù
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javax x(+
+%9%team12.product.service.ProductService"__id*C*A-
++team12.product.controller.ProductController"
+productServiceûø
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javax* x(C
+%10java.lang.Integer"<team12.product.entity.Product#getProdId()Ljava/lang/Integer;*0
+.
+productEntityteam12.product.entity.Product2getProdId()óð
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javaxE x(W
+%11java.lang.Integer";team12.product.dto.ProductDTO#getStock()Ljava/lang/Integer;**
+(
+productteam12.product.dto.ProductDTO2
+getStock() 
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javax x(X$
+%12team12.product.entity.Product"xteam12.product.service.ProductService#updateStock(Ljava/lang/Integer;Ljava/lang/Integer;)Lteam12/product/entity/Product;*-
++
+%9%team12.product.service.ProductService*
+
+%10java.lang.Integer*
+
+%11java.lang.Integer23updateStock(Ljava/lang/Integer;Ljava/lang/Integer;)"‰
+_
+UC:/Users/abc/ProductMS/src/main/java/team12/product/controller/ProductController.javax x(Y&
+$
+%12team12.product.entity.Product:(
+productteam12.product.dto.ProductDTOB/-
++team12.product.controller.ProductController
